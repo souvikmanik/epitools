@@ -1,4 +1,4 @@
-.. _installation:
+0.. _installation:
 
 Installation
 ------------
@@ -18,12 +18,3 @@ let's do a quickstart
 
 .. literalinclude:: exp.py
     :language: python
-
-.. math::
-   :nowrap:
-
-   \begin{eqnarray}
-      y    & = & ax^2 + bx + c \\
-      f(x) & = & x^2 + 2xy + y^2 \\
-      n(t) & = & \frac{L}{1 + e^{-k(t - t_o)}}
-   \end{eqnarray}
