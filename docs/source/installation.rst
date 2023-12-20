@@ -1,5 +1,3 @@
-0.. _installation:
-
 Installation
 ------------
 To use Epitools, first install it using pip:
