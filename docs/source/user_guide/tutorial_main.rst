@@ -1,5 +1,5 @@
 ====================
-Epitools Description
+Epitools description
 ====================
 
  In ``Epitools`` we implemented different outbreak models (exponential, logistic) and different epidemiological models (SIR, SIRD, SEIR, SEIRD) with time-dependent contact rate (:math:`\beta`) models (polynomial, exponential, tanh, power law) for efficient modelling and forecasting Epidemics. The following tutorial covers different functionalities of ``Epitools``. The examples of workflows reproduce the analysis will be published in `Manik et al. (2023)`_
@@ -14,7 +14,7 @@ Flowchart of Epitools usage
   :width: 800
   :alt: Flowchart of ``Epitools`` usage
   
-Modelling and Forecasting Epidemic
+Modelling and forecasting epidemic
 ----------------------------------
 It consists of 4 main classes,  ``EpiGrowthModel, estimate_tc, EpiDynamicsModel, estimate_r``. We have discussed the usage of each class in the relevant sections below. 
 
@@ -38,7 +38,7 @@ Simulation of different types of time-dependent :math:`\beta` models.
   :width: 500
   :alt: beta model
 
-Example Dataset
+Example dataset
 ^^^^^^^^^^^^^^^
 Suppose we have a test epidemic data in the following form :
 
