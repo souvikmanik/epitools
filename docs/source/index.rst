@@ -12,19 +12,19 @@ Python toolkit for analysis, modelling and forecasting Epidemic.
 
 Key features
 ------------
-* Epidemic outbreak modeling modeling and short-term forecasting using predefined fitted growth functions;
-* Estimation of  time-dependent transmission coefficients and efective reproduction number;
-* Epidemic dynamics modeling and estimation of transmission epidemiological parameters using the Runge-Kutta initial value problem solver and iterative (limited memory) BFGS optimizer; 
-* Epidemic decay Dynamics modeling with time dependent contact rate using different decay functions (exp, power, tanh);
-* Estimation of effective reproduction number using Kalman filtering techniques directly from the real-time infection data; 
+* Epidemic outbreak modeling modeling and short-term forecasting using predefined fitted growth functions.
+* Estimation of  time-dependent transmission coefficients and efective reproduction number.
+* Epidemic dynamics modeling and estimation of transmission epidemiological parameters using the Runge-Kutta initial value problem solver and iterative (limited memory) BFGS optimizer. 
+* Epidemic decay dynamics modeling with time dependent contact rate using different decay functions (exp, power, tanh).
+* Estimation of effective reproduction number using Kalman filtering techniques directly from the real-time infection data. 
 
 Documentation
 ------------- 
 .. toctree::
    Installation <installation.rst> 
-   Eptools Description <user_guide/tutorial_main.rst>
-   Tutorial for Epidemic Outbreak Modeling<./outbreak.ipynb>
-   Tutorial for Epidemic Dynamics Modeling<./epidynamicsmodel.ipynb>
+   Eptools description <user_guide/tutorial_main.rst>
+   Tutorial for epidemic outbreak modeling<./outbreak.ipynb>
+   Tutorial for epidemic dynamics modeling<./epidynamicsmodel.ipynb>
 
 Our publications
 ----------------
