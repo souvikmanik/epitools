@@ -24,7 +24,7 @@ Documentation
    Installation <installation.rst> 
    Eptools Description <user_guide/tutorial_main.rst>
    Tutorial for Epidemic Outbreak Modeling<./outbreak.ipynb>
-   Tutorial for Epidemic Outbreak Modeling<./epidynamicsmodel.ipynb>
+   Tutorial for Epidemic Dynamics Modeling<./epidynamicsmodel.ipynb>
 
 Our publications
 ----------------
